@@ -1,0 +1,5 @@
+package dataDictionary
+
+object DataDictionary {
+
+}
